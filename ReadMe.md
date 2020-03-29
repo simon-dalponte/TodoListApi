@@ -1,7 +1,7 @@
 # Todo List Api
 ## DALPONTE Simon
 
-##Installation
+## Installation
 
 Pour installer le proejt il faudra d'abord lancer la commande
 suivante
@@ -10,7 +10,7 @@ suivante
 npm install
 ````
 
-##Lancement du projet
+## Lancement du projet
 
 Selon votre système d'exploitation il faudra lancer la commande suivante
 
