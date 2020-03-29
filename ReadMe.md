@@ -3,7 +3,7 @@
 
 ## Installation
 
-Pour installer le proejt il faudra d'abord lancer la commande
+Pour installer le projett il faudra d'abord lancer la commande
 suivante
 
 ````
